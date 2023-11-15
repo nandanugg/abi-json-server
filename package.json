@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 8080 -w",
+    "start": "json-server -p 8080 -w db.json",
     "help": "json-server --help"
   },
   "author": "",
